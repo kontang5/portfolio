@@ -1,6 +1,4 @@
-# Portfolio
-
-## 이지훈 | Backend Developer
+# 이지훈 | Backend Developer
 
 ## Projects
 
