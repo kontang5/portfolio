@@ -13,3 +13,7 @@ macOS 기반 컨테이너 인프라 구축: Observability 중심 설계
 ### [LLM 기반 자연어 Function Call 시스템](./llm-agents.md)
 
 자연어 명령으로 게시글을 관리하는 로컬 LLM 기반 AI Agent
+
+### [OAuth2.1 기반  SSO](./auth.md)
+
+개인 도메인 과 서비스들의 인증, 인가 시스템
